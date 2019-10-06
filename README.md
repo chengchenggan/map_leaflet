@@ -1,5 +1,8 @@
 # Unit 17 | Assignment - Visualizing Data with Leaflet
 
+I added Plates GeoJson to local folder. Please use "python -m http.server" to run it in the terminal.
+
+
 ## Background
 
 ![1-Logo](Images/1-Logo.png)
